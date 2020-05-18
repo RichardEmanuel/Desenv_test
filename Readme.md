@@ -3,5 +3,5 @@
 Começo das aulas De GIT And GITHUB
 teste
 
-Gostou do curso? testando de tudo por aqui?
+iniciando o aprendizagio das ferramentas git, github, vscode, entre outra para continuar o desenvolvimento aumentando a produtividade.
 
